@@ -1,4 +1,4 @@
-# DBMS
+# Advanced SQL Queries
 
 See tables.sql for the queries relating to table creation, constraints, and relationships.
 
